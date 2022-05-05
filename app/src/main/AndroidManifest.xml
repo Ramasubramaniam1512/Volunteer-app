@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.prop.volunteerconnectduringdisaster">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.VolunteerConnectDuringDisaster">
+        <activity
+            android:name=".HomePage"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.prop.volunteerconnectduringdisaster.AdminActivity" >
+        </activity>
+
+        <activity
+            android:name="com.prop.volunteerconnectduringdisaster.AdminLoginActivity" >
+        </activity>
+
+        <activity
+            android:name="com.prop.volunteerconnectduringdisaster.AlertVolunteer" >
+        </activity>
+
+        <activity
+            android:name="com.prop.volunteerconnectduringdisaster.EditVolunteer" >
+        </activity>
+
+        <activity
+            android:name="com.prop.volunteerconnectduringdisaster.LoginActivity" >
+        </activity>
+
+        <activity
+            android:name="com.prop.volunteerconnectduringdisaster.MainActivity" >
+        </activity>
+
+        <activity
+            android:name="com.prop.volunteerconnectduringdisaster.Message" >
+        </activity>
+
+        <activity
+            android:name="com.prop.volunteerconnectduringdisaster.RegisterActivity" >
+        </activity>
+
+
+
+        <activity
+            android:name="com.prop.volunteerconnectduringdisaster.UserActivity" >
+        </activity>
+
+        <activity
+            android:name="com.prop.volunteerconnectduringdisaster.ViewAlert" >
+        </activity>
+
+        <activity
+            android:name="com.prop.volunteerconnectduringdisaster.ViewVolunteer" >
+        </activity><activity android:name="com.prop.volunteerconnectduringdisaster.UpdateActivity">
+    </activity>
+    </application>
+
+</manifest>

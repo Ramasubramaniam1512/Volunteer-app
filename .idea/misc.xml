@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/activity_home_page.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/activity_message.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/admin_activity.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/admin_login.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/alert_list.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/alertlistview.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/alertvolunteer.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/editvolunteer.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/messsagelist.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/register.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/update.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/user_activity.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/user_login.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/volunteer_list.xml" value="0.12771739130434784" />
+        <entry key="..\:/E/AndroidStudio21/VolunteerConnectDuringDisaster/app/src/main/res/layout/volunteerlistview.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/drawable/gradient.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/activity_home_page.xml" value="0.18" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/activity_message.xml" value="0.25" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/admin_activity.xml" value="0.18478260869565216" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/admin_login.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/alert_list.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/alertlistview.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/alertvolunteer.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/editvolunteer.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/messsagelist.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/register.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/update.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/user_activity.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/user_login.xml" value="0.25" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/volunteer_list.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/Gv Pranav/Desktop/VolunteerConnectDuringDisaster/app/src/main/res/layout/volunteerlistview.xml" value="0.20471014492753623" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
